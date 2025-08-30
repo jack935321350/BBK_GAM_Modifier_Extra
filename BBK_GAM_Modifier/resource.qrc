@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>newEngine.eng</file>
+        <file>translations/zh_CN.qm</file>
+        <file>translations/qtbase_zh_CN.qm</file>
+    </qresource>
+</RCC>
